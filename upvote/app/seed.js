@@ -2,7 +2,7 @@ window.Seed = (function () {
   const submissions = [
     {
       id: 1,
-      title: 'Yellow Pail',
+      title: 'Yellow Label',
       description: 'On-demand sand castle construction expertise.',
       url: '#',
       votes: 16,
